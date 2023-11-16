@@ -1,0 +1,2 @@
+# SymptoSense
+Minor-Project
